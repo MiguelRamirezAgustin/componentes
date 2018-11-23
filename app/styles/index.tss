@@ -1,0 +1,14 @@
+".container": {
+	backgroundColor:"white",
+	layout:"vertical"
+}
+
+"#viewCalendario":{
+	width:"100%",
+    heigth:"30%",
+	borderColor:"red",
+	layout:"vertical"
+}
+
+
+

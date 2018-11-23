@@ -1,0 +1,6 @@
+<Alloy>
+	<Window class="container" >
+		<View id="viewCalendario">
+		</View>
+	</Window>
+</Alloy>
