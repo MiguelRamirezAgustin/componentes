@@ -1,6 +1,9 @@
 <Alloy>
-	<Window class="container" >
-		<View id="viewCalendario">
-		</View>
+	<Window class="container">
+			<View id="viewCalendario">
+			</View>
+			<View id="compomentes">
+				<Label id="lbdialogo"></Label>
+			</View>
 	</Window>
 </Alloy>
