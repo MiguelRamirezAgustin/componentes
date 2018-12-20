@@ -4,6 +4,7 @@
 			</View>
 			<View id="compomentes">
 				<Label id="lbdialogo"></Label>
+				<Label id="lbSiguiente"></Label>
 			</View>
 	</Window>
 </Alloy>

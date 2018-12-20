@@ -1,0 +1,95 @@
+
+"#fondo" : {
+  width:"100%",
+  height:"100%",
+  layout:"vertical",
+  backgroundImage:"/images/fondo.jpg"
+}
+
+"#general":{
+  width:"78%",
+  height:"75%",
+  top:"10%",
+  layout:"vertical",
+  borderRadius:5
+}
+
+
+"#superior":{
+	backgroundColor:"black",
+	height:"10%",
+}
+
+"#contendor":{
+  backgroundColor:"gray",
+  height:"90%",
+  layout:"vertical",
+  zIndex:1,
+  opacity:0.4
+}
+
+"#txfNombre":{
+	width:"220dip",
+	height:"45dip",
+	top:"30dip",
+	hintText:"Nombre",
+	hintTextColor:"red",
+	color:"white",
+	textAlign:Ti.UI.TEXT_ALIGNMENT_CENTER,
+	font:{
+		fontSize:23
+	},
+	zIndex:2
+}
+
+"#txfApellidos":{
+	width:"220dip",
+	height:"45dip",
+	top:"30dip",
+	hintText:"Apellidos",
+	hintTextColor:"red",
+	color:"white",
+	textAlign:Ti.UI.TEXT_ALIGNMENT_CENTER,
+	font:{
+		fontSize:23
+	}
+}
+
+"#txfEdad":{
+	width:"220dip",
+	height:"45dip",
+	top:"30dip",
+	hintText:"Edad",
+	hintTextColor:"red",
+	color:"white",
+	textAlign:Ti.UI.TEXT_ALIGNMENT_CENTER,
+	font:{
+		fontSize:23
+	}
+}
+
+"#txfDireccion":{
+	width:"200dip",
+	height5:"45dip",
+	top:"30dip",
+	borderRadius:3,
+	hintText:"Direccion",
+	hintTextColor:"red",
+	color:"white",
+	textAlign:Ti.UI.TEXT_ALIGNMENT_CENTER,
+	font:{
+		fontSize:23
+	}
+}
+
+"#btnInsertar":{
+	title:"Insertar",
+	top:"48dip",
+	color:"white",
+	width:"200dip",
+	height:"40dip",
+	textAlign:Ti.UI.TEXT_ALIGNMENT_CENTER,
+	font:{
+		fontSize:19
+	}
+}

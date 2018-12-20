@@ -6,14 +6,12 @@
 "#viewCalendario":{
 	width:"100%",
     height:"50%",
-    borderColor:'red',
 	layout:"vertical"
 }
 
 "#compomentes":{
 	width:"100%",
     height:"50%",
-	borderColor:"blue",
 	layout:"vertical"
 }
 
@@ -22,4 +20,14 @@
 	text:"Dialogo",
 	color:"red",
 	top:"10%"
+}
+
+
+"#lbSiguiente":{
+	text:"Siguiente",
+	color:"red",
+	top:"15%",
+	font:{
+		fontSize:15
+	}
 }

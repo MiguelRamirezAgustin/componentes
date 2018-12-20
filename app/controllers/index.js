@@ -102,6 +102,10 @@ $.lbdialogo.addEventListener('dblclick', function(){
 });
 
 
+$.lbSiguiente.addEventListener('click', function(){
+	var siguiente=Alloy.createController('datos').getView();
+	siguiente.open();
+});
 
 $.index.open();
 

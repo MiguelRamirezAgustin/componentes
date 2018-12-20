@@ -1,0 +1,16 @@
+<Alloy>
+	<Window id="fondo">
+		<View id="general">
+			<View id="superior">
+				
+			</View>
+			<View id="contendor" >
+				<TextField id="txfNombre"></TextField>
+				<TextField id="txfApellidos"></TextField>
+				<TextField id="txfEdad"></TextField>
+				<TextField id="txfDireccion"></TextField>
+				<Button id="btnInsertar"></Button>				
+			</View>
+		</View>
+	</Window>
+</Alloy>
